@@ -1,4 +1,7 @@
-# 👋 Luis Bertolucci
+<div align="center">
+  <h1>👋 Luis Bertolucci</h1>
+  <img src="https://media1.tenor.com/m/d0rfMMI5JWQAAAAC/toji.gif" alt="Toji Fushiguro" width="210" />
+</div>
 
 💻 Desenvolvedor focado em construir soluções eficientes e inteligentes.  
 🧠 Sempre aprendendo, evoluindo e entregando resultados com consistência.
@@ -7,12 +10,14 @@
 
 ## 🛠️ Tecnologias que utilizo
 
-![Java](https://img.shields.io/badge/Java-1e1e1e?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1e1e1e?style=flat&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-1e1e1e?style=flat&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-1e1e1e?style=flat&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-1e1e1e?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1e1e1e?style=flat&logo=css3&logoColor=white)
+<div align="center"><br>
+  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
 ---
 
@@ -35,7 +40,7 @@
 
 ## 🌐 Redes
 
-<div align="center">
+<div align="start">
   <a href="https://www.instagram.com/lui_bertolucci" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-1e1e1e?style=flat&logo=instagram&logoColor=white" />
   </a>
