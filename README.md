@@ -2,7 +2,9 @@
   <h1>👋 Luis Bertolucci</h1>
   <img src="https://media1.tenor.com/m/d0rfMMI5JWQAAAAC/toji.gif" alt="Toji Fushiguro" width="210" />
 </div>
+
 ---
+
 <div align="center">
   **`Desenvolvedor FullStack | Entusiasta de Ciência de Dados & CyberSecurity`**
 </div>
