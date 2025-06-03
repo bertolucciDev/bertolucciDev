@@ -8,7 +8,7 @@
 <div align="center">
   **`Desenvolvedor FullStack | Entusiasta de Ciência de Dados & CyberSecurity`**
 </div>
-💻 Desenvolvedor focado em construir soluções eficientes e inteligentes.  
+💻 Desenvolvedor focado em construir soluções eficientes e inteligentes.  <br>
 🧠 Sempre aprendendo, evoluindo e entregando resultados com consistência.
 
 Olá, Me chamo Luis Otavio, tenho 16 anos e sou de Guaiçara/SP. Estou finalizando o ensino médio na ETEC, junto com o curso técnico de Desenvolvimento de Sistemas. Atualmente, estou cursando o CS50x de Harvard. Sou apaixonado por tecnologia desde pequeno -- Desde de sempre fui um entusiasta da tecnologia
