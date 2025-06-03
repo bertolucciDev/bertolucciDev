@@ -10,8 +10,8 @@
 </div>
 <br>
 💻 Desenvolvedor focado em construir soluções eficientes e inteligentes.  <br>
-🧠 Sempre aprendendo, evoluindo e entregando resultados com consistência.
-
+🧠 Sempre aprendendo, evoluindo e entregando resultados com consistência. <br>
+<br>
 Olá, Me chamo Luis Otavio, tenho 16 anos e sou de Guaiçara/SP. Estou finalizando o ensino médio na ETEC, junto com o curso técnico de Desenvolvimento de Sistemas. Atualmente, estou cursando o CS50x de Harvard. Sou apaixonado por tecnologia desde pequeno -- Desde de sempre fui um entusiasta da tecnologia
 
 Focado em Fullstack, mas prefiro Backend
