@@ -8,7 +8,7 @@
 <div align="center">
   <strong>Desenvolvedor FullStack | Entusiasta de Ciência de Dados & CyberSecurity</strong>
 </div>
-
+<br>
 💻 Desenvolvedor focado em construir soluções eficientes e inteligentes.  <br>
 🧠 Sempre aprendendo, evoluindo e entregando resultados com consistência.
 
