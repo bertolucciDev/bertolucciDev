@@ -2,9 +2,15 @@
   <h1>👋 Luis Bertolucci</h1>
   <img src="https://media1.tenor.com/m/d0rfMMI5JWQAAAAC/toji.gif" alt="Toji Fushiguro" width="210" />
 </div>
+ 
+**`Desenvolvedor FullStack | Entusiasta de Ciência de Dados & CyberSecurity`**
 
 💻 Desenvolvedor focado em construir soluções eficientes e inteligentes.  
 🧠 Sempre aprendendo, evoluindo e entregando resultados com consistência.
+
+Olá, Me chamo Luis Otavio, tenho 16 anos e sou de Guaiçara/SP. Estou finalizando o ensino médio na ETEC, junto com o curso técnico de Desenvolvimento de Sistemas. Atualmente, estou cursando o CS50x de Harvard. Sou apaixonado por tecnologia desde pequeno -- Desde de sempre fui um entusiasta da tecnologia
+
+Focado em Fullstack, mas prefiro Backend
 
 ---
 
@@ -19,6 +25,9 @@
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="BootStrap" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
   <img align="center" alt="Electron" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />
+  <img align="center" alt="MySql" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Django" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
+  <img align="center" alt="Typescript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 </div>
 
 ---
