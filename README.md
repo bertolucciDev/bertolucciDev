@@ -2,9 +2,10 @@
   <h1>👋 Luis Bertolucci</h1>
   <img src="https://media1.tenor.com/m/d0rfMMI5JWQAAAAC/toji.gif" alt="Toji Fushiguro" width="210" />
 </div>
- 
-**`Desenvolvedor FullStack | Entusiasta de Ciência de Dados & CyberSecurity`**
-
+---
+<div align="center">
+  **`Desenvolvedor FullStack | Entusiasta de Ciência de Dados & CyberSecurity`**
+</div>
 💻 Desenvolvedor focado em construir soluções eficientes e inteligentes.  
 🧠 Sempre aprendendo, evoluindo e entregando resultados com consistência.
 
