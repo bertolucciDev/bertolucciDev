@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Luis Bertolucci</h1>
-  <img src="https://media1.tenor.com/m/d0rfMMI5JWQAAAAC/toji.gif" alt="Toji Fushiguro" width="210" />
+  <img src="https://media1.tenor.com/m/d0rfMMI5JWQAAAAC/toji.gif" alt="Toji Fushiguro" width="240" />
 </div>
 
 ---
